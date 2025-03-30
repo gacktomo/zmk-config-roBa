@@ -32,12 +32,12 @@
         };
 
         eisu {
-            bindings = <&kp INT_MUHENKAN>;
+            bindings = <&kp LANG6>;
             key-positions = <13 12>;
         };
 
         kana {
-            bindings = <&kp INT_HENKAN>;
+            bindings = <&kp INT_KATAKANAHIRAGANA>;
             key-positions = <18 19>;
         };
     };
