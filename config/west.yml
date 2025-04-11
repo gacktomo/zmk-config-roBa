@@ -4,6 +4,8 @@ manifest:
       url-base: https://github.com/zmkfirmware
     - name: kumamuk-git
       url-base: https://github.com/kumamuk-git
+    - name: gacktomo
+      url-base: https://github.com/gacktomo
   projects:
     - name: zmk
       remote: zmkfirmware
