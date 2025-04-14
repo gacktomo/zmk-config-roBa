@@ -12,8 +12,8 @@ manifest:
       revision: main
       import: app/west.yml
     - name: zmk-pmw3610-driver
-      remote: gacktomo
-      # remote: kumamuk-git
+      # remote: gacktomo
+      remote: kumamuk-git
       revision: main
   self:
     path: config
